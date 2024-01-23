@@ -9,12 +9,12 @@ public class main2 {
 		for (int i = 0; i < 5; i++) {
 
 			String nombre = JOptionPane.showInputDialog("Nombre del empleado");
-			double horas = Integer.parseInt(JOptionPane.showInputDialog("Número de horas trabajadas"));
-			double tarifa = Integer.parseInt(JOptionPane.showInputDialog("Tarifa por hora"));
+			double horas = Double.parseDouble(JOptionPane.showInputDialog("Número de horas trabajadas"));
+			double tarifa = Double.parseDouble(JOptionPane.showInputDialog("Tarifa por hora"));
 
 			trabajador[i] = new salario(nombre, horas, tarifa);
-			JOptionPane.showInternalMessageDialog(null, "Su salario es: " + trabajador[i].CalcularSalario());
-
+			JOptionPane.showMessageDialog(null, "Su salario es: " + trabajador[i].CalcularSalario());
+                  
 		}
 	}
 
