@@ -3,7 +3,6 @@ package ejer_POOIV;
 import javax.swing.JOptionPane;
 
 public class main1 {
-
 		 
 			public static void main(String[] args) {
 				estudiantes esudiante1 = new estudiantes();
