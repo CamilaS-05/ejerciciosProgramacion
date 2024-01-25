@@ -1,4 +1,4 @@
-package ejer_poov;
+package ejer_POOV;
 
 import java.util.Date;
 import java.util.GregorianCalendar;
