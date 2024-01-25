@@ -32,10 +32,6 @@ class Empleado {
 
 	}
 
-	public Empleado(String nombre2, String sueldo2, String año, int a, int m, int d) {
-		// TODO Auto-generated constructor stub
-	}
-
 	public String getNombre() {
 		return nombre;
 	}
