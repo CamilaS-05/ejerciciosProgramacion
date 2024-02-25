@@ -1,5 +1,9 @@
 package POOIV;
 
+import java.util.ArrayList;
+
+import javax.swing.JOptionPane;
+
 public class Uso_Contactos {
 	public static void main(String[] args) {
 		

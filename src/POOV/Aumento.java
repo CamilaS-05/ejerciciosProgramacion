@@ -1,5 +1,7 @@
 package POOV;
 
+import javax.swing.JOptionPane;
+
 public class Aumento {
 public static void main(String[] args) {
 		

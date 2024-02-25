@@ -1,5 +1,8 @@
 package POOIII;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Receta {
 	private List<String> ingredientes;
 	private List<String> pasos;

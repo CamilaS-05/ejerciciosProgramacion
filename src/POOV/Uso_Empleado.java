@@ -55,4 +55,4 @@ class Empleado{
 	private Date alta_contrato;
 	
 }
-}
+

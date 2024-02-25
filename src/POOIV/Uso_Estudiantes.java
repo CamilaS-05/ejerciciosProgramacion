@@ -1,5 +1,7 @@
 package POOIV;
 
+import javax.swing.JOptionPane;
+
 public class Uso_Estudiantes {
 	public static void main(String[] args) {
 		

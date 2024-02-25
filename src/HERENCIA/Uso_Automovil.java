@@ -1,5 +1,7 @@
 package HERENCIA;
 
+import javax.swing.JOptionPane;
+
 public class Uso_Automovil {
 public static void main(String[] args) {
 		

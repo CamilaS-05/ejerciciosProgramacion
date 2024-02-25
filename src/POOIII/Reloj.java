@@ -1,5 +1,8 @@
 package POOIII;
 
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 public class Reloj {
 	private String hora_alarma, hora_actual;
 	private boolean est_alarma;
