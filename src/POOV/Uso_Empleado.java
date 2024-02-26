@@ -14,7 +14,7 @@ public static void main(String[] args) {
         int mes = Integer.parseInt(JOptionPane.showInputDialog("Introduce el mes"));
 		int dia = Integer.parseInt(JOptionPane.showInputDialog("Introduce el dia"));
       
-        Empleado emp = new Empleado(nombre, sueldo, año, mes, dia);
+        Empleados emp = new Empleados(nombre, sueldo, año, mes, dia);
         
         JOptionPane.showMessageDialog(null, emp.getNombre() + "\n" + emp.getSueldo() + "\n" + emp.getAlta_contrato());
      
