@@ -1,4 +1,4 @@
-package ejer_hotel;
+package ejeer_hotel;
 import java.util.Scanner;
 public class main2 {
 
@@ -10,7 +10,7 @@ public class main2 {
 
 		        System.out.println("Ingrese el número de habitaciones en el hotel:");
 		        int numHabitaciones = scanner.nextInt();
-		        hotel hotelCam = new hotel();
+		        hotel hotelCam = new hotel(numHabitaciones, null);
 
 		        int opcion;
 		        do {

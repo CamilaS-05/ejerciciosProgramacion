@@ -9,8 +9,8 @@ public class main {
 		Ecam.setcalificacion(Ecam.getcalificacion());
 
 		System.out.println(Ecam.getnombre());
-		System.out.println(ECam.getedad());
-		System.out.println(ECam.getcalificacion());
+		System.out.println(Ecam.getedad());
+		System.out.println(Ecam.getcalificacion());
 
 	}
 }

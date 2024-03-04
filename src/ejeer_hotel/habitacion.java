@@ -1,4 +1,4 @@
-package ejer_hotel;
+package ejeer_hotel;
 
 import java.util.Scanner;
 
